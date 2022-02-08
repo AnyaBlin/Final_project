@@ -50,6 +50,16 @@
 
 -------
 
+<details>
+<summary>И последний является URL`ом к тестироемому сайту  </summary>
+   
+- browserSize ( по умолчанию 1280x1024)
+   
+- browserVersion = (по умолчанию 96.0)
+   
+- browserName = ( по умолчанию Chrome)
+</details>
+
 ### Запуск локально
 
 ```
