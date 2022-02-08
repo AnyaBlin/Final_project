@@ -87,8 +87,15 @@ gradle clean test
 
 <a href="https://ibb.co/5RhKSpY"><img src="https://i.ibb.co/qrYJcq0/Desc-Tests.png" alt="Desc-Tests" border="0"></a>
 
+### <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"  alt="Allure TestOps"/> Отчёт о прохождении автотестов в [Allure TestOps](https://allure.autotests.cloud/launch/9847)
 
-### Уведомления о прохождении автотестов в Telegram
+<a href="https://ibb.co/QPhJJpS"><img src="https://i.ibb.co/X76WWj0/stat-Test-Ops.png" alt="stat-Test-Ops" border="0"></a>
+<a href="https://ibb.co/qD1FhbG"><img src="https://i.ibb.co/VLBpbXy/TestOps.png" alt="TestOps" border="0"></a>
+
+### Список автотестов в [Allure TestOps]
+<a href="https://ibb.co/dDnpKqr"><img src="https://i.ibb.co/M7q1N4s/Testcase.png" alt="Testcase" border="0"></a>
+
+### <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="40" height="40"  alt="Telegram"/> Уведомления о прохождении автотестов в Telegram
 
 <a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
 
