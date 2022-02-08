@@ -63,11 +63,11 @@ gradle clean test
 
 ### Отчёт о прохождении автотестов в Allure Report
 
-<a href="https://ibb.co/p17fb7z"><img src="https://i.ibb.co/wdkSBkW/allure-Main.jpg" alt="allure-Main" border="0"></a>
+<a href="https://ibb.co/ZccyDcG"><img src="https://i.ibb.co/1RRHWR7/StatAll.png" alt="statAll" border="0"></a>
 
 ### Список автотестов в Allure Report
 
-<a href="https://c.radikal.ru/c40/2112/d9/e6eb62018cbb.jpg"><img src="https://c.radikal.ru/c40/2112/d9/e6eb62018cbb.jpg" alt="e6eb62018cbb" border="0"></a>
+<a href="https://ibb.co/5RhKSpY"><img src="https://i.ibb.co/qrYJcq0/Desc-Tests.png" alt="Desc-Tests" border="0"></a>
 
 
 ### Видео о прохождении тестов
@@ -76,5 +76,5 @@ gradle clean test
 
 ### Уведомления о прохождении автотестов в Telegram
 
-<a href="https://ibb.co/dkv4NbQ"><img src="https://i.ibb.co/3Sbmxf0/bot.jpg" alt="bot" border="0"></a>
+<a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
 
