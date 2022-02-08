@@ -59,7 +59,7 @@ gradle clean test
 
 При нажатии кнопки "Собрать с параметрами" появится окно, где можно настроить параметры запуска
 
-<a href="https://ibb.co/tKn50tQ"><img src="https://i.ibb.co/PjJ82nF/param.jpg" alt="param" border="0"></a>
+<a href="https://ibb.co/FW88CsW"><img src="https://i.ibb.co/YWffwDW/param.png" alt="param" border="0"></a>
 
 ### Отчёт о прохождении автотестов в [Allure Report](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/7/allure/)
 
