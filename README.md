@@ -65,11 +65,19 @@
 ```
 gradle clean test
 ```
-### Запуск в [Jenkins](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/)
+### <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"  alt="Jenkins"/> Запуск в [Jenkins](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/) 
 
 При нажатии кнопки "Собрать с параметрами" появится окно, где можно настроить параметры запуска
 
 <a href="https://ibb.co/FW88CsW"><img src="https://i.ibb.co/YWffwDW/param.png" alt="param" border="0"></a>
+
+### Анализ результатов тестирования
+
+Более подробно результаты тестов можно рассмотреть в 
+
+[Allure Report](#Отчёт-о-прохождении-автотестов-в-Allure-Report)
+
+[Allure TestOps](#Отчёт-о-прохождении-автотестов-в-Allure-TestOps)
 
 ### Отчёт о прохождении автотестов в [Allure Report](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/7/allure/)
 
