@@ -55,26 +55,27 @@
 ```
 gradle clean test
 ```
-### Запуск в Jenkins
+### Запуск в [Jenkins](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/)
 
 При нажатии кнопки "Собрать с параметрами" появится окно, где можно настроить параметры запуска
 
 <a href="https://ibb.co/tKn50tQ"><img src="https://i.ibb.co/PjJ82nF/param.jpg" alt="param" border="0"></a>
 
-### Отчёт о прохождении автотестов в Allure Report
+### Отчёт о прохождении автотестов в [Allure Report](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/7/allure/)
 
 <a href="https://ibb.co/ZccyDcG"><img src="https://i.ibb.co/1RRHWR7/StatAll.png" alt="statAll" border="0"></a>
 
-### Список автотестов в Allure Report
+### Список автотестов в [Allure Report](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/7/allure/#suites/17f25cd99236779462cd74c955f7c813/276515797d3f6030/)
 
 <a href="https://ibb.co/5RhKSpY"><img src="https://i.ibb.co/qrYJcq0/Desc-Tests.png" alt="Desc-Tests" border="0"></a>
 
+
+### Уведомления о прохождении автотестов в Telegram
+
+<a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
 
 ### Видео о прохождении тестов
 
 <a href="https://ibb.co/hFm683d"><img src="https://i.ibb.co/fdxg0jN/videoselen-1.gif" alt="videoselen-1" border="0"></a>
 
-### Уведомления о прохождении автотестов в Telegram
-
-<a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
 
