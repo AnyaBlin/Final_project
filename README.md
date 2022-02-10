@@ -65,7 +65,7 @@
 ```
 gradle clean test
 ```
-### <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"  alt="Jenkins"/> Запуск в [Jenkins](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/) 
+###  Запуск в [Jenkins](https://jenkins.autotests.cloud/job/009-AnnaBlin-Itog/) <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" width="40" height="40"  alt="Jenkins"/>
 
 При нажатии кнопки "Собрать с параметрами" появится окно, где можно настроить параметры запуска
 
@@ -87,7 +87,7 @@ gradle clean test
 
 <a href="https://ibb.co/5RhKSpY"><img src="https://i.ibb.co/qrYJcq0/Desc-Tests.png" alt="Desc-Tests" border="0"></a>
 
-### Отчёт о прохождении автотестов в [Allure TestOps](https://allure.autotests.cloud/launch/9847)
+### Отчёт о прохождении автотестов в [Allure TestOps](https://allure.autotests.cloud/launch/9847) <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"  alt="Allure TestOps"/>
 
 <a href="https://ibb.co/QPhJJpS"><img src="https://i.ibb.co/X76WWj0/stat-Test-Ops.png" alt="stat-Test-Ops" border="0"></a>
 <a href="https://ibb.co/qD1FhbG"><img src="https://i.ibb.co/VLBpbXy/TestOps.png" alt="TestOps" border="0"></a>
@@ -95,7 +95,7 @@ gradle clean test
 ### <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"  alt="Allure TestOps"/> Список автотестов в [Allure TestOps](https://allure.autotests.cloud/launch/9847/tree?treeId=1792&from=WyIzMjIzIl0%3D)
 <a href="https://ibb.co/dDnpKqr"><img src="https://i.ibb.co/M7q1N4s/Testcase.png" alt="Testcase" border="0"></a>
 
-### <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="40" height="40"  alt="Telegram"/> Уведомления о прохождении автотестов в Telegram
+### Уведомления о прохождении автотестов в Telegram <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="40" height="40"  alt="Telegram"/>
 
 <a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
 
