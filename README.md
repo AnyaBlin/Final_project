@@ -99,6 +99,10 @@ gradle clean test
 ### Список автотестов в [Allure TestOps](https://allure.autotests.cloud/launch/9847/tree?treeId=1792&from=WyIzMjIzIl0%3D) <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" width="40" height="40"  alt="Allure TestOps"/>
 <a href="https://ibb.co/dDnpKqr"><img src="https://i.ibb.co/M7q1N4s/Testcase.png" alt="Testcase" border="0"></a>
 
+### Результаты о прохождении тестов в [Jira](https://jira.autotests.cloud/browse/HOMEWORK-331)<img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="40" height="40"  alt="Jira"/>
+
+<a href="https://ibb.co/c1w9W7g"><img src="https://i.ibb.co/t4z60Wm/jira.png" alt="jira" border="0"></a>
+
 ### Уведомления о прохождении автотестов в Telegram <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" width="40" height="40"  alt="Telegram"/>
 
 <a href="https://ibb.co/999N72N"><img src="https://i.ibb.co/wNNRfCR/Telegram.png" alt="Telegram" border="0"></a>
