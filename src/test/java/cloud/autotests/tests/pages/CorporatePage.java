@@ -11,9 +11,7 @@ public class CorporatePage {
     public String VTBCapitalText = "ВТБ Капитал предлагает полный спектр инвестиционно-банковских продуктов и услуг как российским";
     public String VTBInsuranceText = "Почему именно ВТБ Страхование";
 
-
     public CorporatePage goToTheCorporateBusinessTab() {
-
         open("");
         $$(".link__text.text.color-white.size-small-medium.weight-medium").find(text(CorporateBusiness)).click();
 
@@ -21,7 +19,6 @@ public class CorporatePage {
     }
 
     public CorporatePage goToTheCapitalTab() {
-
         $(".tab-panel__image").scrollTo();
         $$(".tab-panel__row li").find(text(VTBCapital)).click();
 
@@ -29,35 +26,30 @@ public class CorporatePage {
     }
 
     public CorporatePage goToTheInsurance() {
-
         $$(".tab-panel__row li").find(text(VTBInsurance)).click();
 
         return this;
     }
 
     public CorporatePage goToTheFactoring() {
-
         $$(".tab-panel__row li").find(text(VTBFactoring)).click();
 
         return this;
     }
 
     public CorporatePage checkResultsCapitalTab() {
-
         $(".tab-panel__wrap").shouldHave(text(VTBCapitalText));
 
         return this;
     }
 
     public CorporatePage checkResultsInsurance() {
-
         $(".tab-panel__wrap").shouldHave(text(VTBInsuranceText));
 
         return this;
     }
 
     public CorporatePage checkResultsFactoring() {
-
         $(".tab-panel__wrap").shouldHave(text(VTBFactoring));
 
         return this;

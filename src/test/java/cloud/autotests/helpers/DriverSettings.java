@@ -5,8 +5,6 @@ import com.codeborne.selenide.Configuration;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import static java.lang.String.format;
-
 public class DriverSettings {
 
     public static void configure() {

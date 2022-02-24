@@ -101,5 +101,4 @@ public class VTBTests extends TestBase {
             Allure.step("Проверяем содержимое", () -> mainPage.checkResultsChangeLanguage());
         });
     }
-
 }

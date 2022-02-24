@@ -14,7 +14,6 @@ public class PaymentPage {
     String SearchOffice = "Найти отделение";
 
     public PaymentPage goToThePaymentPage() {
-
         open("");
         $$(".header-bottom-menu-item").findBy(text(PaymentsAndTransfers)).click();
 
@@ -22,14 +21,12 @@ public class PaymentPage {
     }
 
     public PaymentPage goToTheCurrencyExchangePage() {
-
         $$(".header-menu-panel-group-item").findBy(text(CurrencyExchange)).click();
 
         return this;
     }
 
     public PaymentPage checkResultsAfterClickingOnButtonCalculate() {
-
         $(".typographystyles__Box-foundation-kit__sc-14qzghz-0.cQoWFL").shouldHave(text(PreliminaryCalculation));
 
         return this;
@@ -37,14 +34,12 @@ public class PaymentPage {
 
 
     public PaymentPage checkResultsAfterClickingOnButtonSearchOffice() {
-
         $(".ng-scope").shouldHave(text(OfficesAndATMs));
 
         return this;
     }
 
     public PaymentPage chooseNonCashMethodOfExchange() {
-
         $(".parametersstyles__Box-currency-converter__sc-8kybyp-0.ghRtZY").scrollTo();
         //$$(".selectstyles__Box-currency-converter__sc-30iz8h-0.hVxMvd").findBy(text(Cash)).click();
         $(".select-inputstyles__SelectInputBlock-foundation-kit__sc-uv08kr-0.kcjYt").click();
@@ -54,7 +49,6 @@ public class PaymentPage {
     }
 
     public PaymentPage fillCurrencyConverterAndClickButtonCalculate() {
-
         $$(".tabsstyles__TabsLayout-foundation-kit__sc-v13t8p-0.cFicyP").find(text(SymbolDollar)).click();
         $(".base-inputstyles__Input-foundation-kit__sc-pjb7i3-4.bvNA-Dt").click();
         $(".base-inputstyles__Input-foundation-kit__sc-pjb7i3-4.bvNA-Dt").sendKeys("100");
@@ -64,10 +58,8 @@ public class PaymentPage {
     }
 
     public PaymentPage clickButtonSearchOffice() {
-
         $$(".resultstyles__WrapperButtons-currency-converter__sc-bn1358-5.hxDVUb").find(text(SearchOffice)).click();
 
         return this;
     }
-
 }

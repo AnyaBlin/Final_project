@@ -25,21 +25,18 @@ public class MainPage {
     String MulticardPrivilege = "Мультикарта Привилегия";
 
     public MainPage checkResultsIndividuals() {
-
         $(".header-menu").shouldHave(text(Individuals));
 
         return this;
     }
 
     public MainPage checkResultsCorporate() {
-
         $(".header-menu").shouldHave(text(CorporateBusiness));
 
         return this;
     }
 
     public MainPage checkResultsMedium() {
-
         $(".header-menu").shouldHave(text(MediumBusiness));
 
         return this;
@@ -68,14 +65,12 @@ public class MainPage {
     }
 
     public MainPage checkResultsChangeLanguage() {
-
         $(".navigation__second__menu").shouldHave(text(Careers));
 
         return this;
     }
 
     public MainPage downloadPDFFileAndCheckNumberOfPages() throws IOException {
-
         open("");
         $(".link__text.text.color-dark-gray.size-small-medium.weight-normal").scrollTo();
         $(By.linkText(PDFDocumentText)).click();
@@ -87,7 +82,6 @@ public class MainPage {
     }
 
     public MainPage scrollToChangeLanguageAndClickEnglish() {
-
         $(".location").scrollTo().find(By.linkText(English)).click();
 
         return this;
